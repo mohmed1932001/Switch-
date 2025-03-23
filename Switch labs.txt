@@ -1,0 +1,8 @@
+✅ Vlan 	
+✅ Switchport (access port, trunk port)
+✅ VTP V2
+✅ STP(rapid-pvst)
+✅ STP (port fast , uplink fast )
+✅ Port Security
+✅ EtherChannel (PAGP- LACP)
+✅Inter-Vlan Routing (Layer 3Switch)
